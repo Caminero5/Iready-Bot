@@ -1,15 +1,5 @@
 # Iready-bot Documentation
 
-## Modules Needed
-please enter this into your terminal or command prompt before running sript
-```
-pip install pyarmor
-pip install pyautogui
-pip install keyboard
-pip install licensing
-pip install opencv-python
-```
-
 ## Good to know
 Make sure to ALWAYS start with Reading becuase it will automatically switch to math 
 
