@@ -7,7 +7,7 @@ Make sure to ALWAYS start with Reading becuase it will automatically switch to m
 This bot uses image recongnition to detect user UI in the iready website to keep there timer awake to keep your minutes up. It clicks your sceen at a constant rate of 1 mins and after a certain ammount of time it will log out of your assignment and re login to restart there stopwatch that makes sure your doing work. This robot does NOT do your assinment just keeps your time up
 
 ## What is a long/short assignment
-a long assignment is a normal assignment but has more steps to exit and enter the assignment again selecting the correct one will help the robot know what is going on.
+a long assignment is a normal assignment but has more steps to exit and enter the assignment again selecting the correct one will help the robot know what is going on. To identify what is a long assignemnt check if your exit buttin has a circle around it. if that is a yes you have a short assignment
   
 ## Troubleshooting License
 
