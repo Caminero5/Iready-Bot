@@ -1,5 +1,8 @@
 # Iready-bot Documentation
 
+## How to use
+To use the iready bot you must first open your next lesson in reading then hover your cursor over the spot you want the bot to constently click (should be something with nothing there on the lesson) then you keep the cursor there and start the bot. 
+
 ## Good to know
 Make sure to ALWAYS start with Reading becuase it will automatically switch to math 
 
@@ -31,10 +34,9 @@ If the software keeps responding with
 
 **If this does not work make sure to adjust the confidence level These are what they do**
 ```py
-confidence1 = 0 #Exit button 1 this is the x button with a circle around it
-confidence2 = 0 #exit button 2 this is the x button without a circle only used for long assignemnt
-confidence3 = 0 #next lesson button this is the button in the home page that says "next lesson"
-confidence4 = 0 #arrow button this is the button after clicking the next lesson button
-confidence5 = 0 #go button this is the button that says "go" right before starting a long assignment
-confidence6 = 0 #exit button 3 this is the button that says "are you sure you want to exit"
+confidence1 = 0.9 #Exit button 1 this is the x button with a circle around it
+confidence3 = 0.8 #next lesson button this is the button in the home page that says "next lesson"
+confidence4 = 0.8 #arrow button this is the button after clicking the next lesson button
+confidence5 = 0.9 #go button this is the button that says "go" right before starting a long assignment
+confidence6 = 0.9 #exit button 3 this is the button that says "are you sure you want to exit"
 ```
